@@ -1,0 +1,22 @@
+/* Write your code here. */
+.Gallery {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 100px;
+  padding-top: 30px;
+}
+
+.display_image {
+  /* width: 80%; */
+}
+
+.heading {
+}
+
+.thumbnails_title {
+}
+
+.thumbnails {
+  display: flex;
+}
